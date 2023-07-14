@@ -44,7 +44,6 @@ Setup content type and create few entries
 Get Space ID, Access Token and explore code examples.
 
 Space ID - p3q140sre9mg
-Access Token - lQgQoC9WCkPCYtsgag1Enk-M2KRkTISr7nTLFE_pRYo
 
 #### Install SDK
 
